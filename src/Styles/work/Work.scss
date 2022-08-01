@@ -9,8 +9,46 @@
 
 .work-span {
     font-size: 2vw;
+    color: rgb(192, 231, 247);
+    margin: 50px 0;
 }
 
-.cards {
+.cards .card {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+.card-image {
+    width: 100%;
+}
+
+.card-name {
+    font-size: 2vw;
+    margin: 10px 0;
+    color: #f5ce12;
+}
+
+.description {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1vw;
+    margin: 20px 0 20px 10px;
+}
+
+.work-more {
+    font-size: 1.3vw;
+    margin-top: 50px;
+    color: rgb(192, 231, 247);
+}
+
+.more-link {
+    color: #056070;
 }

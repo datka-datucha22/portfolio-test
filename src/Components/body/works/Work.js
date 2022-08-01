@@ -12,13 +12,17 @@ export default function Work() {
                 {info.map((item, i) =>
                     <a key={i} href={item.link} target="_blank">
                         <div className="card">
-                            <img className="card-image" src={item.image} alt="" />
-                            <span className="description"></span>
+                            <span className="card-name">{item.name}</span>
+                            <img className="card-image" src={item.image} alt="image of my project" />
+                            <div className="description">
+                                <span>{item.description}</span>
+                            </div>
                         </div>
                     </a>
 
                 )}
 
+                <span className="work-more">For more, you can check my <a className="more-link" href="https://github.com/datka-datucha22" target="_blank"> github profile </a></span>
             </div>
 
 
