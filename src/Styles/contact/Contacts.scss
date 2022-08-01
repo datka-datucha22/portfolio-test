@@ -1,0 +1,51 @@
+.contact {
+    width: 100%;
+    background-color: #478b8d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons-box {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+
+    div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
+
+.icon {
+    width: 100%;
+    height: 170px;
+}
+
+.icon1 {
+    width: 140%;
+    height: 170px;
+}
+
+.icon2 {
+    width: 90%;
+    height: 150px;
+}
+
+.our-icon {
+    background-color: rgba(255, 255, 255, 0.24);
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.our-icon:hover {
+    background-color: rgb(255, 255, 255);
+    transition: 1s;
+
+}

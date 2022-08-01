@@ -1,0 +1,20 @@
+[
+    {
+        "name": "HTML-CSS",
+        "description": "My first HTML-CSS Project",
+        "link": "https://datka-datucha22.github.io/project/",
+        "image": "https://i.ibb.co/KXsfJ0n/html-css-project.png"
+    },
+    {
+        "name": "JS",
+        "description": "My first JavaScript Project",
+        "link": "https://datka-datucha22.github.io/js-project/",
+        "image": "https://i.ibb.co/Z1pqxs7/js-project.png"
+    },
+    {
+        "name": "React",
+        "description": "My first React Project",
+        "link": "https://datka-datucha22.github.io/react-project/",
+        "image": "https://i.ibb.co/XtYN4JT/react-project.png"
+    }
+]
