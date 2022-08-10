@@ -19,16 +19,9 @@ export default function Work() {
                             </div>
                         </div>
                     </a>
-
                 )}
-
                 <span className="work-more">For more, you can check my <a className="more-link" href="https://github.com/datka-datucha22" target="_blank"> github profile </a></span>
             </div>
-
-
-
-
-
         </div>
     )
 }

@@ -19,14 +19,20 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    box-shadow: rgba(255, 255, 255, 0.15) 0px 48px 100px 0px;
+    border-radius: 20px;
+    padding: 5% 15%;
 }
 
 .card {
-    margin: 20px 0;
+    margin: 5% 0;
+
 }
 
 .card-image {
     width: 100%;
+    border-radius: 20px;
+
 }
 
 .card-name {
@@ -41,11 +47,12 @@
     justify-content: flex-start;
     font-size: 1vw;
     margin: 20px 0 20px 10px;
+    color: #b1dd4a;
 }
 
 .work-more {
     font-size: 1.3vw;
-    margin-top: 50px;
+    margin: 5%;
     color: rgb(192, 231, 247);
 }
 
